@@ -1,0 +1,9 @@
+{
+  "name": "Botstrap-Button",
+  "description": "Collection buttons for bootstrap",
+  "version": "0.1.0",
+  "devDependencies": {
+    "gulp-autoprefixer": "^2.3.1",
+    "gulp-sass": "^2.0.4"
+  }
+}

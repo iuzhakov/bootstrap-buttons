@@ -1,0 +1,17 @@
+{
+  "name": "Bootstrap-Button",
+  "version": "0.1.0",
+  "homepage": "https://github.com/iuzhakov/bootstrap-buttons",
+  "authors": [
+    "iuzhakov-vitalii <iuzhakovv@gmail.com>"
+  ],
+  "description": "Collection buttons for bootstrap",
+  "main": "butstrap-btn.css",
+  "keywords": [
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
